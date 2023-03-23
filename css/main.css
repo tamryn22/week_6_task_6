@@ -1,0 +1,31 @@
+form{
+    width: 30%;
+    margin:0 auto;
+    margin-top: 100px;
+    background-color: #2a2a2a;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.input-el{
+    width: 90%;
+    height: 35px;
+    margin-top: 10px;
+    padding-left: 15px;
+    border: none;
+    border-radius: 20px;
+
+}
+button{
+    width: 95% !important;
+    background-color: rgb(64, 172, 64);
+    
+}
